@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Gary, I'm currently employed as a school teacher, teaching GCSE and A-Level Computer Science however I'm looking to change careers and move into the tech industry.</div>  
   
+<br/>
 
 - I’m currently working on 🔭 a DfE Software Engineering Skills Bootcamp facilited by HyperionDev.  This is an intensive, full time, four month course.  
   
