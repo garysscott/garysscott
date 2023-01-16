@@ -10,7 +10,7 @@
 - I’m currently working on 🔭 a DfE Software Engineering Skills Bootcamp facilited by HyperionDev.  This is an intensive, full time, four month course.  
   
 
--  I’m currently learning 🌱 Python, HTML, CSS, Bootstrap, Django and SQL.  
+-  I’m currently learning 🌱 Python, HTML, CSS, Bootstrap, Django and SQL / SQLite.  
   
 
 - Ask me about ❓ Python   
