@@ -18,7 +18,6 @@
 
 - Fun Fact ⚡ Fun fact: I  have been a Computer Science teacher in schools for over 15 years!  
   
-
 <br/>   
 
 ## My Skill Set  
