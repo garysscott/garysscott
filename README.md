@@ -16,7 +16,7 @@
 - Ask me about ❓ Python   
   
 
-- Fun Fact ⚡ Fun fact: I  have been a Computer Science teacher in schools for over 15 years!  
+- Fun Fact ⚡ Fun fact: I have been a Computer Science teacher in schools for over 15 years!  
   
 <br/>   
 
